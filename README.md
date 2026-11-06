@@ -34,4 +34,4 @@ python3 scripts/build.py
 
 锁屏、省电、重启后的系统调度不保证准点。论坛原生手机型号尾注模拟尚未实现可验证效果，普通文字签名不等同于原生型号模拟。
 
-Jsoup第三方许可保留于[third-party-notices.txt](app/src/main/assets/third-party-notices.txt)。仓库为私有自用，不授予未声明的公开再分发许可。
+Jsoup第三方许可保留于[third-party-notices.txt](app/src/main/assets/third-party-notices.txt)。仓库已公开，源码和测试APK可直接查看及下载；项目未另行授予开源许可，第三方组件遵循其各自许可。
