@@ -1,0 +1,18 @@
+Edition: G
+Verifies
+Verified using v1 scheme (JAR signing): false
+Verified using v2 scheme (APK Signature Scheme v2): true
+Verified using v3 scheme (APK Signature Scheme v3): true
+Verified using v3.1 scheme (APK Signature Scheme v3.1): false
+Verified using v4 scheme (APK Signature Scheme v4): false
+Verified for SourceStamp: false
+Number of signers: 1
+Signer #1 certificate DN: CN=My0511Lite Development, O=Local Personal Build, C=IE
+Signer #1 certificate SHA-256 digest: 4b7a76c459c525a670a979bfdb73c03cef649556f91f7ea2c822f5f04142c12b
+Signer #1 certificate SHA-1 digest: 7b4b6b57f3e3675e8a954f2175260ac2423620e4
+Signer #1 certificate MD5 digest: 880c54862b822b65cd2906bebfb7ff27
+Signer #1 key algorithm: RSA
+Signer #1 key size (bits): 2048
+Signer #1 public key SHA-256 digest: 1e46c4f52dcc897c6a129416ead55b179838a07f34aef747bce8fd591d0d863c
+Signer #1 public key SHA-1 digest: 319ae66705369088e823a35d728ff4b9849a6aa6
+Signer #1 public key MD5 digest: 6aa7d943e84d59acad370a471b172ba8

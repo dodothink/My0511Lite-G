@@ -1,0 +1,24 @@
+{
+  "edition": "G",
+  "purpose": "Public editor scripts used only in network-blocked synthetic Android tests; not redistributed",
+  "sources": [
+    {
+      "key": "common",
+      "file": "G-official-common.js",
+      "url": "https://bbs.my0511.com/images/new18/common.js?v=210909",
+      "sha256": "20104da5b07094aa55622f52d41899ca1bf1f723c9b463f959a5f3fbbb7fc328"
+    },
+    {
+      "key": "post",
+      "file": "G-official-editor-post.js",
+      "url": "https://bbs.my0511.com/include/editor/post.js?21090915",
+      "sha256": "6e7b6be406cd45ba679c3e60126ecf8c579cea2c2a45cc159f15124a53178786"
+    },
+    {
+      "key": "bbcode",
+      "file": "G-official-editor-bbcode.js",
+      "url": "https://bbs.my0511.com/include/editor/bbcode.js?210909",
+      "sha256": "0d7298c37101da0e7ed55f9446aaa8070da4ae324dcb40c62a1525c4d7eec3c2"
+    }
+  ]
+}

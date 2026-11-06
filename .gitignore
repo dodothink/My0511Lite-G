@@ -1,0 +1,16 @@
+# Edition: G
+/work/
+/outputs/
+.gradle/
+**/build/
+local.properties
+.env
+.env.*
+*.jks
+*.keystore
+*.enc
+*.idsig
+__pycache__/
+.DS_Store
+tasks.json
+accounts.json

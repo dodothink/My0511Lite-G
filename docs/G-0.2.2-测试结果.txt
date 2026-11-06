@@ -1,0 +1,42 @@
+Edition: G
+warning: [options] source value 8 is obsolete and will be removed in a future release
+warning: [options] target value 8 is obsolete and will be removed in a future release
+warning: [options] To suppress warnings about obsolete options, use -Xlint:-options.
+3 warnings
+Public GET fixtures: 80 topics, 5 floors
+PASS 46 core checks; no network writes or APK execution
+PASS 29 login redirect / session identity checks; no passwords or real posting.
+PASS 45 form checks; synthetic DOM only, no real submission
+warning: [options] source value 8 is obsolete and will be removed in a future release
+warning: [options] target value 8 is obsolete and will be removed in a future release
+warning: [options] To suppress warnings about obsolete options, use -Xlint:-options.
+3 warnings
+PASS 18 storage/import checks; host AtomicFile double, not Android filesystem validation
+PASS 31 G bulk-paste/account/schedule boundary checks
+
+Edition: G
+G outputs/My0511Lite-G-0.2.2-test.apk
+Serving...
+Performing Incremental Install
+Success
+Install command complete in 77 ms
+All files should be loaded. Notifying the device.
+
+G work/device-tests/test-signed.apk
+Serving...
+Performing Incremental Install
+Success
+Install command complete in 40 ms
+All files should be loaded. Notifying the device.
+
+G local.my0511.lite.test/local.my0511.lite.QuickAddAndroidSmoke
+PASS 11 G direct-add Android checks; no posts
+
+
+G local.my0511.lite.test/local.my0511.lite.StatusAndroidSmoke
+PASS 10 G manual-status Android regressions; no posts
+
+
+G local.my0511.lite.test/local.my0511.lite.EditorAndroidSmoke
+PASS 12 Android official-editor checks, synthetic form, all network blocked
+
